@@ -1,2 +1,2 @@
 # Image_Mapping
-Implementation of Image mapping in HTML
+Implementation of Image mapping in HTML using a basic image during world skills training.
